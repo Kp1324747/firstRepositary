@@ -1,1 +1,2 @@
-# firstRepositary
+# krish lalani
+first Repositary
